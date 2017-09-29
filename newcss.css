@@ -1,5 +1,6 @@
 body {
 background-color: blue;
+align-content:center;
 }
 h1 {
 text-align: center;
@@ -10,6 +11,9 @@ body{
    font-family: Calibri;
    color: white;
    font-weight: bold;
+}
+form{
+    text-align: center;
 }
 
 /* 
