@@ -83,8 +83,8 @@ double netPay= postTaxPay - postTaxDeduct;
                 
                 <tr> 
                     <td>Post-tax Pay:</td>           
-                    </td><% out.println(postTaxPay);%>
-                    </td>
+                    </td><% out.println(postTaxPay);%></td>
+                    
                 </tr>
                 <tr>
                              <td>Post-tax Deduct:</td>
