@@ -5,9 +5,11 @@
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <title>Homework 3</title>
+        <link rel="stylesheet" type="text/css" href="newcss.css">
     </head>
     <body>
-        <h1>Homework 3!</h1>
+        <h1>Simple Salary Calculator</h1>
+        <hr>
         <form name="Salary Calculator" action="results.jsp" method="post">
             <table>
                 <tbody>
