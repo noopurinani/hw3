@@ -13,19 +13,19 @@
                 <tbody>
                     <tr>
                         <td>Hours Worked:</td>
-                        <td><input type="text" name='hours' value='' size='50'></td>
+                        <td><input type="text" name='hours' value='' size='50' required></td>
                     </tr>
                     <tr>
                         <td>Hourly Pay:</td>
-                        <td><input type="text" name='first' value='' size='50'></td>
+                        <td><input type="text" name='hourpay' value='' size='50'required></td>
                     </tr>
                     <tr>
                         <td>Pre-tax Deduct:</td>
-                        <td><input type="text" name='pre-tax' value='' size='50'></td>
+                        <td><input type="text" name='pretax' value='' size='50'required></td>
                     </tr>
                     <tr>
                         <td>Post-tax Deduct:</td>
-                        <td><input type="text" name='post-tax' value='' size='50'></td>
+                        <td><input type="text" name='posttax' value='' size='50'required></td>
                     </tr>
                 </tbody>
             </table>
